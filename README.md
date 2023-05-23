@@ -4,7 +4,7 @@
 - [Project Link](https://1drv.ms/x/s!Age6rEtCzosdgQtIulV9rPCP1GR0?e=MYnv2n)
 
 <h2>Description</h2>
-Examined and cleaned historical sales data using Excel. Completed exploratory data analysis to identify strategic scenerios to increase revenue, assessed by KPI performance. Presented models that showcased a 74% increase in profits, while lowering operational costs.
+The objective of this project was to conduct exploratory data analysis for Lariat Rent-a-Car company, with a focus on identifying strategic scenarios to boost revenue based on key performance indicators (KPIs). Historical sales data from 2018 was carefully examined and cleaned using Excel, employing tools such as VlookUp, pivot tables, index and match, and complex functions to combine the provided data. The outcome was an interactive dashboard that presented a range of strategies to enhance revenue and reduce costs. The dashboard also highlighted important observations and provided recommendations, ultimately leading to a remarkable 74% increase in profits and improved operational efficiency by lowering costs.
 <br />
 
 
